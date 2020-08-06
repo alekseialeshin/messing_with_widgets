@@ -5,7 +5,7 @@ void main() => runApp(MaterialApp(
         appBar: AppBar(
           title: Text('Hello nooby!'),
           centerTitle: true,
-          backgroundColor: Colors.red[400],
+          backgroundColor: Colors.red[900],
         ),
         body: Center(
           child: Text('Hello noobo!'),
