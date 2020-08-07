@@ -15,7 +15,9 @@ class Home extends StatelessWidget {
       ),
       body: Center(
           child: IconButton(
-        onPressed: () {},
+        onPressed: () {
+          print('uuh');
+        },
         icon: Icon(Icons.access_alarm),
         color: Colors.amberAccent,
       )),
